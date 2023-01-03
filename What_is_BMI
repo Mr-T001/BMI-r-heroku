@@ -1,6 +1,8 @@
+
 #### What is BMI?
 
 **Body Mass Index (BMI)** is essentially a value obtained from the weight and height of a person [1].
+
 
 
 #### Calculating the BMI
@@ -12,9 +14,11 @@ BMI can be computed by dividing the person's weight (kg) by their squared height
 where *kg* represents the person's weight and *m^2* the person's squared height.
 
 
+
 #### About this BMI Calculator
 
 This *BMI Calculator* is for adults 20 years and older. Further information on calculating BMI for children and teenagers is available from the CDC [2].
+
 
 
 #### BMI for Adults
@@ -28,6 +32,7 @@ This *BMI Calculator* is for adults 20 years and older. Further information on c
 >25.0 – 29.9	    Overweight
 >
 >30.0 and Above	Obesity
+
 
 
 #### References
